@@ -9,6 +9,10 @@ This repository contains two part
    handle (approve) the authorization
 2. A Client App that uses the OAuth2.1 server for authorization
 
+
+For more details, please check out my blog [Supabase As OAuth2.1 Server With ZERO lines of Server-Side Code!
+](https://medium.com/@itsuki.enjoy/supabase-as-oauth2-1-server-with-zero-lines-of-server-side-code-ac7ab3734996)
+
 ## Set Up
 
 1. Go to [database.new](https://database.new/) and click on that New project
